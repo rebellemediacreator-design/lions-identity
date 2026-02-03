@@ -50,7 +50,7 @@ export default function Home() {
         {/* Background Image with Overlay */}
         <div className="absolute inset-0 z-0">
           <img 
-            src="/lion-hero.webp" 
+            src="/lion-hero-clean.webp" 
             alt="Majestic Lion" 
             className="w-full h-full object-cover object-center opacity-60 scale-105 animate-pulse-slow"
           />
